@@ -37,3 +37,31 @@ The directory contains the original source code archives (e.g., `.tar.gz`) for t
 * **`newlib-cygwin-1_7_6.tar`** (Source for `cygwin1.dll`)
 * **`libiconv-1.13.1.tar`** (Source for `cygiconv-2.dll`)
 * **`gettext-0.18.1.1.tar`** (Source for `cygintl-8.dll`)
+
+**⚠️ Note on Large Files (Git LFS Required)**
+
+Due to the size of some essential source archives (specifically, `cygwin-1_7_6.tar` and `gettext-0.18.1.1.tar`), this repository uses **Git Large File Storage (Git LFS)**.
+
+To successfully clone this repository and download the large source archives, you **must** install Git LFS before cloning.
+
+#### Cloning Instructions:
+
+1.  **Install Git LFS:**
+    ```bash
+    # On Debian/Ubuntu
+    sudo apt-get install git-lfs 
+    # Or, on macOS using Homebrew
+    brew install git-lfs 
+    # Or, download from git-lfs.com 
+    ```
+
+2.  **Initialize LFS:**
+    ```bash
+    git lfs install
+    ```
+
+3.  **Clone the repository (Standard Clone):**
+    ```bash
+    git clone [https://github.com/bekl1011/mkisofs.git](https://github.com/bekl1011/mkisofs.git)
+    ```
+    *(If you cloned before installing LFS, you may need to run `git lfs pull` after initialization to download the large files.)*
