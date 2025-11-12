@@ -1,6 +1,6 @@
 ## 📜 Licensing and Source Code Information
 
-This repository contains binary executables and dynamic link libraries (DLLs) distributed under various free and open-source licenses. To comply with the terms of these licenses, the complete corresponding source code for all included binaries is provided in the `/source_dependencies` directory.
+This repository contains binary executables and dynamic link libraries (DLLs) distributed under various free and open-source licenses. To comply with the terms of these licenses, the complete corresponding source code for all included binaries is provided in the `/sourceCode` directory.
 
 ---
 
@@ -29,11 +29,11 @@ Copies of the full text for the required licenses are included in the repository
 
 ### 📦 Source Code Access
 
-In compliance with the GPL and LGPL, the complete, corresponding source code for the binaries included in this repository is available in the **`/source_dependencies`** directory.
+In compliance with the GPL and LGPL, the complete, corresponding source code for the binaries included in this repository is available in the **`/sourceCode`** directory.
 
 The directory contains the original source code archives (e.g., `.tar.gz`) for the following projects, matching the binaries included in this release:
 
-* **`cdrtools-X.Y.tar.gz`** (Source for `mkisofs`)
+* **`cdrtools-3.0.0.tar.gz`** (Source for `mkisofs`)
 * **`newlib-cygwin-X.Y.tar.gz`** (Source for `cygwin1.dll`)
 * **`libiconv-X.Y.tar.gz`** (Source for `cygiconv-2.dll`)
 * **`gettext-X.Y.tar.gz`** (Source for `cygintl-8.dll`)
