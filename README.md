@@ -33,7 +33,7 @@ In compliance with the GPL and LGPL, the complete, corresponding source code for
 
 The directory contains the original source code archives (e.g., `.tar.gz`) for the following projects, matching the binaries included in this release:
 
-* **`cdrtools-3.0.0.tar.gz`** (Source for `mkisofs`)
-* **`newlib-cygwin-X.Y.tar.gz`** (Source for `cygwin1.dll`)
-* **`libiconv-X.Y.tar.gz`** (Source for `cygiconv-2.dll`)
-* **`gettext-X.Y.tar.gz`** (Source for `cygintl-8.dll`)
+* **`cdrtools-3.0.0.tar`** (Source for `mkisofs`)
+* **`newlib-cygwin-1_7_6.tar`** (Source for `cygwin1.dll`)
+* **`libiconv-1.13.1.tar`** (Source for `cygiconv-2.dll`)
+* **`gettext-0.18.1.1.tar`** (Source for `cygintl-8.dll`)

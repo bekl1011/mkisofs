@@ -1,0 +1,5 @@
+As a special exception, the copyright holders of the Cygwin run-time library grant you permission to distribute object code copies of programs that link with the Cygwin run-time library, provided that you also fulfill all the requirements of the GNU General Public License (GPL) or the GNU Lesser General Public License (LGPL), whichever is applicable, for the programs themselves.
+
+You are not required to provide the source code of the program to which you apply this exception, nor are you required to apply this exception to any other portion of your work.
+
+If you modify the library, you may extend this exception to your version of the library, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.
